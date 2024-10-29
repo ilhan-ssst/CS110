@@ -1,6 +1,6 @@
-# University Coursework Repository - CS110 Programming and Problem Solving
+# CS110 Programming and Problem Solving
 
-Welcome to my SSST Coursework Repository! This repository contains various homework assignments, projects, and materials from my classes. Feel free to explore and use any of the resources provided here.
+Welcome to my SSST Repository! This repository contains various homework assignments, projects, and materials from my classes. Feel free to explore and use any of the resources provided here.
 
 ## Table of Contents
 
